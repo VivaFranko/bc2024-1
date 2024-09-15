@@ -1,2 +1,2 @@
 let userName = "VivaFranko";
-console.log("Привіт, " + userName);
+console.log("Hello, " + userName);
